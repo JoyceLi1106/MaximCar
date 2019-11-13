@@ -1,0 +1,11 @@
+C:\Antra Doc\Assessment\Maxim.API\Maxim.Data\bin\Debug\netcoreapp3.0\Maxim.Data.deps.json
+C:\Antra Doc\Assessment\Maxim.API\Maxim.Data\bin\Debug\netcoreapp3.0\Maxim.Data.dll
+C:\Antra Doc\Assessment\Maxim.API\Maxim.Data\obj\Debug\netcoreapp3.0\Maxim.Data.csprojAssemblyReference.cache
+C:\Antra Doc\Assessment\Maxim.API\Maxim.Data\obj\Debug\netcoreapp3.0\Maxim.Data.AssemblyInfoInputs.cache
+C:\Antra Doc\Assessment\Maxim.API\Maxim.Data\obj\Debug\netcoreapp3.0\Maxim.Data.AssemblyInfo.cs
+C:\Antra Doc\Assessment\Maxim.API\Maxim.Data\bin\Debug\netcoreapp3.0\Maxim.Data.pdb
+C:\Antra Doc\Assessment\Maxim.API\Maxim.Data\bin\Debug\netcoreapp3.0\Maxim.Entities.dll
+C:\Antra Doc\Assessment\Maxim.API\Maxim.Data\bin\Debug\netcoreapp3.0\Maxim.Entities.pdb
+C:\Antra Doc\Assessment\Maxim.API\Maxim.Data\obj\Debug\netcoreapp3.0\Maxim.Data.csproj.CopyComplete
+C:\Antra Doc\Assessment\Maxim.API\Maxim.Data\obj\Debug\netcoreapp3.0\Maxim.Data.dll
+C:\Antra Doc\Assessment\Maxim.API\Maxim.Data\obj\Debug\netcoreapp3.0\Maxim.Data.pdb
